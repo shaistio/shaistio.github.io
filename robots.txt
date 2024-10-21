@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://shaistio.github.io/shaistio.txt.gz
+Sitemap: https://shaistio.github.io/app/shaistio.txt.gz
+Sitemap: https://shaistio.github.io/assets/shaistio.txt.gz
+Sitemap: https://shaistio.github.io/css/shaistio.txt.gz
+Sitemap: https://shaistio.github.io/includes/shaistio.txt.gz
+Sitemap: https://shaistio.github.io/item/shaistio.txt.gz
+Sitemap: https://shaistio.github.io/src/shaistio.txt.gz
